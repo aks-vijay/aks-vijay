@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **aks-vijay/aks-vijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <p align="center">
 <i> I'm a Data Analyst from India, currently living in United States. <br> I'm passionate about understanding the intersection between Data Science & Healthcare.<br> <br> 
  Some technologies I enjoy working with includes - Microsoft SQL Server, SQL Server Integration Services (SSIS), SQL Server Reporting Services (SSRS), R Programming (dplyr, ggplot2, tidyr), Python Programming, Tableau </i> <br> <br>
- <i> Apart from coding, I'm a Blockchain Enthusiast, a Digital Asset Investor, and a Technical Analyst </i>
 <h4 align = "center"> Get in touch! </h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksvijay/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksvijay" height="30" width="40" /></a>
