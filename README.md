@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
 
 <html>
@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </p>
 <hr>
 <h1 align="center">Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Akshay Vijay </h1>
-- 💻 I’m currently working on BI stack (SQL Server, SSIS, SSRS) and consulting for BI solutions.
-- 📚 I’m currently learning Python (ML+DS stack)
+- 💻 I’m currently working on BI stack (SQL Server, SSIS, SSRS) and consulting for BI solutions. <br>
+- 📚 I’m currently learning Python (ML+DS stack) <br>
 - 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it
 <p align="center">
 <h4 align = "center"> Get in touch! </h4>
