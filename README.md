@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 </p>
 <hr>
 <h1 align="center">Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Akshay Vijay </h1>
-<p align="center">
 - 💻 I’m currently working on BI stack (SQL Server, SSIS, SSRS) and consulting for BI solutions.
 - 📚 I’m currently learning Python (ML+DS stack)
 - 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it
+<p align="center">
 <h4 align = "center"> Get in touch! </h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksvijay/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksvijay" height="30" width="40" /></a>
