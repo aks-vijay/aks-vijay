@@ -26,12 +26,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aks-vijay&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's GitHub Stats" />
 </a>
 </p>
-<p align="center">
-<h4 align = "center"> Get in touch! </h4>
-<p align="center">
-<a href="https://www.linkedin.com/in/aksvijay/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksvijay" height="30" width="40" /></a>
-<a href = "mailto: akshayvj1995@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-<a href = "https://github.com/aks-vijay"><img align="center" src="https://simpleicons.org/icons/github.svg" height="30" width="40" /></a>
-</p>
 </p>
 </html>
