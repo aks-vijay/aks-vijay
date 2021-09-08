@@ -33,3 +33,19 @@ Here are some ideas to get you started:
 </p>
 </p>
 </html>
+
+a href="https://github.com/MartinHeinz/aks-vijay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/aks-vijay/aks-vijay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aks-vijay&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's GitHub Stats" />
+</a>
+
+<a href="https://github.com/aks-vijay/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aks-vijay&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/aks-vijay/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aks-vijay&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
