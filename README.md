@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 - 💻 I currently work on BI stack (SQL Server, SSIS, SSRS) and consulting for BI solutions. <br>
 - 📚 I’m currently learning Python (ML+DS stack) <br>
 - 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it
+<p align = "center">
+<a href="https://github.com/aks-vijay/aks-vijay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aks-vijay&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/aks-vijay/aks-vijay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aks-vijay&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's GitHub Stats" />
+</a>
+</p>
 <p align="center">
 <h4 align = "center"> Get in touch! </h4>
 <p align="center">
@@ -33,11 +41,3 @@ Here are some ideas to get you started:
 </p>
 </p>
 </html>
-<p align = "center">
-<a href="https://github.com/aks-vijay/aks-vijay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aks-vijay&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/aks-vijay/aks-vijay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aks-vijay&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's GitHub Stats" />
-</a>
-  </p>
