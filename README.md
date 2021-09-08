@@ -14,10 +14,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=mssqlserver&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SSIS-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SSRS-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-R-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SSIS-informational?style=flat&logo=ssis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SSRS-informational?style=flat&logo=ssrs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-R-informational?style=flat&logo=r-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau-open-shift&logoColor=white&color=2bbc8a)
 <p align = "center">
 <a href="https://github.com/aks-vijay/aks-vijay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aks-vijay&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
