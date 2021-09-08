@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 📚 I’m currently learning Python (ML+DS stack) <br>
 - 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it
 <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<aks-vijay>&theme=<THEME_NAME>" />
 <h4 align = "center"> Get in touch! </h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksvijay/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksvijay" height="30" width="40" /></a>
