@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
+
+
+
+<html>
+<p align="center">
+<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Akshay Vijay and I'm a data analyst/software developer. I'm from India, living in United States and currently working at Blue Cross Blue Shield Association.
@@ -31,17 +40,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Tools-SSIS-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SSRS-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-R-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-
-
-<html>
-<p align="center">
-<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<hr>
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-- 💻 I currently work on BI stack (SQL Server, SSIS, SSRS) and consulting for BI solutions. <br>
-- 📚 I’m currently learning Python (ML+DS stack) <br>
-- 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it
 <p align = "center">
 <a href="https://github.com/aks-vijay/aks-vijay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aks-vijay&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
