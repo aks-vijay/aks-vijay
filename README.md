@@ -15,6 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Akshay Vijay and I'm a data analyst/software developer. I'm from India, living in United States and currently working at Blue Cross Blue Shield Association.
+
+## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [Medium](https://akshaysvj.medium.com/) as well as maintaining a personal website [Portfolio](https://aks-vijay.github.io/)
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SSIS-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SSRS-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-R-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+
+
 <html>
 <p align="center">
 <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
