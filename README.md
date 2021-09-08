@@ -13,7 +13,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=mssqlserver&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SSIS-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SSRS-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-R-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
