@@ -13,15 +13,21 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=mssqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Numpy-informational?style=flat&logo=mssqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Matplotlib-informational?style=flat&logo=mssqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Seaborn-informational?style=flat&logo=mssqlserver&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=mssqlserver&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SSIS-informational?style=flat&logo=ssis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SSRS-informational?style=flat&logo=ssrs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-R-informational?style=flat&logo=r-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-tidyverse-informational?style=flat&logo=r-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-dplyr-informational?style=flat&logo=r-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-ggplot2-informational?style=flat&logo=r-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau-open-shift&logoColor=white&color=2bbc8a)
 <p align = "center">
 <a href="https://github.com/aks-vijay/aks-vijay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aks-vijay&hide=scss,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aks-vijay&hide=scss,htmltex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/aks-vijay/aks-vijay">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aks-vijay&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's GitHub Stats" />
