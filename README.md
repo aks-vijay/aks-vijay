@@ -5,7 +5,7 @@
 <hr>
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ##; About me:
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ## Who am i?
 My name is Akshay Vijay and I'm a data analyst/software developer. I'm based on India, currently living in United states.
 
 ## &#x270d; Blog & Writing
