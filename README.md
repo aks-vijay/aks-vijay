@@ -4,7 +4,7 @@
 </p>
 <hr>
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-My name is Akshay Vijay and I'm a data analyst/software developer. I'm from India, living in United States and currently working at Blue Cross Blue Shield Association.
+My name is Akshay Vijay and I'm a data analyst/software developer. I'm based on India, currently living in United states.
 
 ## &#x270d; Blog & Writing
 
