@@ -3,7 +3,7 @@
 <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center"> &lt; Hello World! &gt; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> &lt; /Hello World! &gt; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 My name is Akshay. I’m currently working as a Data Analyst/Engineer for Blue Cross Blue Shield Association. In my day to day basis - I create ETL data pipelines, preprocess the data for data wrangling, perform exploratory data analysis, also helping in data migration of healthcare data to our database engine, reporting for 35 health plans across USA.
 
