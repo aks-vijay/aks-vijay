@@ -5,7 +5,7 @@
 <hr>
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-My name is Akshay Vijay and I'm a data analyst/software developer. I'm based on India, currently living in United states.
+My name is Akshay Sankar Vijay. I’m currently working as a Data Analyst/Engineer for Blue cross blue shield association. In my day to day basis - I create ETL data pipelines, preprocess the data for data wrangling, perform exploratory data analysis, also helping in data migration of healthcare data to our database engine. 
 
 ## &#x270d; Blog & Writing
 
