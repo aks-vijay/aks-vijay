@@ -9,7 +9,7 @@ My name is Akshay Sankar Vijay. I’m currently working as a Data Analyst/Engine
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Medium](https://akshaysvj.medium.com/) as well as maintaining a personal website [Portfolio](https://aks-vijay.github.io/).
+Apart from work, I code a lot! I enjoy coding. To me - Coding is just a language of logic. In my free time, I write technical articles, read books, and maintain blogs - you can find my articles on my [website](https://aks-vijay.github.io/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
