@@ -9,7 +9,7 @@ My name is Akshay. I’m currently working as a Data Analyst/Engineer for Blue C
 
 ## &#x270d; Blog & Writing
 
-Apart from work, I code a lot! I enjoy coding. To me - Coding is just a language of logic. In my free time, I write technical articles, read books, and maintain blogs - you can find my articles on my [website](https://aks-vijay.github.io/).
+Apart from work, I code a lot! I enjoy coding. To me - Coding is just a language of logic. In my free time, I read technical articles, read books, and maintain technical blogs - you can find my articles on my [website](https://aks-vijay.github.io/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
