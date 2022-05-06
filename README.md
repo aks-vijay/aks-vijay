@@ -3,9 +3,7 @@
 <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center"> &lt;/Hello, World!&gt; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
-My name is Akshay. I’m currently working as an Analytics Manager @ EXL Service. In my day to day basis - I create ETL data pipelines, preprocess the data for data wrangling, perform exploratory data analysis, also helping in data migration of healthcare data to our database engine, reporting for 12 multi millior dollar revenue health plans across USA.
+<h1 align="center"> &lt;/Hello, World!&gt; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> In my day to day basis - I create ETL data pipelines, preprocess the data for data wrangling, perform exploratory data analysis, also helping in data migration of healthcare data to our database engine, reporting for 12 multi millior dollar revenue health plans across USA.
 
 ## &#x270d; Blog & Writing
 
