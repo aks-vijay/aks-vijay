@@ -9,7 +9,7 @@
 >> Design and development of complex ETL data architecture using MS SQL Server, SSIS, Python <br>
 >> Database Administration, query tuning and optimization using Execution plans, IO statistics, Index Optimization etc. <br>
 >> Experience working in Event processing ecosystem using Apache Kafka architecture and Apache Zookeeper <br>
->> Performing complex data manipulations using distributed computing technology ecosystem like Apache Spark, Spark SQL. <br>
+>> Performing complex data manipulations using distributed computing technology ecosystem like Apache Spark, Spark SQL on structured/semi structured data stored in text files, CSV, JSON, Parquet etc. <br>
   
 
 ## &#x270d; Blog & Writing
