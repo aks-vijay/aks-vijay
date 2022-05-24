@@ -8,6 +8,9 @@
 ## &#x270d; Blog & Writing
 
 Apart from work, I code a lot. In my free time, I read technical articles, read books, and maintain technical blogs - you can find my articles on my [website](https://aks-vijay.github.io/).
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
