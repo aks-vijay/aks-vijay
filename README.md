@@ -19,7 +19,9 @@ Apart from work, I code a lot. In my free time, I read technical articles, read 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 3 mins
+
+HTML   3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
