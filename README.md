@@ -3,7 +3,7 @@
 <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center"> &lt;/Hello, World!&gt; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> I have 2+ years of Software Development expertise coupled with Data Engineering skillset. In the past I have developed several end to end scalable data pipelines with log monitoring and orchestration systems to handle billions of data.
+<h1 align="center"> &lt;/Hello, World!&gt; <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"></h1> I have 2+ years of Software Development expertise coupled with Data Engineering skillset. In the past I have developed several end to end scalable data pipelines with log monitoring and orchestration systems to handle billions of data.
   
 <h2>What I'm skilled at?</h2>
 >> Design and development of front end applications. <br>
