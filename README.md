@@ -34,7 +34,7 @@ Text         2 mins          ░░░░░░░░░░░░░░░░░
 
 <p align = "center">
 <a href="https://github.com/aks-vijay/aks-vijay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aks-vijay&hide=jupyter%20notebook,CSS, SCSS,HTML,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aks-vijay&hide=jupyter%20notebook,CSS, SCSS,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/aks-vijay/aks-vijay">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aks-vijay&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's GitHub Stats" />
