@@ -21,13 +21,13 @@ Apart from work, I code a lot. In my free time, I read technical articles, read 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 hrs 31 mins
+Total Time: 6 hrs 52 mins
 
-JavaScript   7 hrs 3 mins    ████████████████████▓░░░░   82.89 %
-HTML         1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-CSS          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+JavaScript   5 hrs 58 mins   █████████████████████▓░░░   86.79 %
+HTML         39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
