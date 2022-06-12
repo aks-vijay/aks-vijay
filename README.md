@@ -17,19 +17,6 @@ I have 2+ years of Software Development expertise coupled with Data Engineering 
 ## &#x270d; Blog & Writing
 
 Apart from work, I code a lot. In my free time, I read technical articles, read books, and maintain technical blogs - you can find my articles on my [website](https://aks-vijay.github.io/).
-  
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 7 hrs 9 mins
-
-JavaScript   5 hrs 52 mins   ████████████████████▒░░░░   80.86 %
-HTML         1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <p align = "center">
