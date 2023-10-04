@@ -7,7 +7,7 @@
 I have 4+ years of Data Engineering ecosystem. In the past I have developed several end to end scalable data pipelines with log monitoring and orchestration systems to handle billions of data.
   
 <h2>What I'm skilled at?</h2>
->> Apache Spark, Spark SQL, PySpark, Dataframe APIs for ETL big data workloads. <br>
+>> Apache Spark, Spark SQL, PySpark, Dataframe APIs, Databricks Notebook Workflows, Databricks Jobs for ETL big data workloads. <br>
 >> .NET data driven applications using C# .NET, ADO.NET, LINQ <br>
 >> Design and development of complex ETL and batch data pipelines using MS SQL Server, SSIS, Python <br>
 >> Database Administration, query tuning and optimization using Execution plans, IO statistics, Index Optimization etc. <br>
